@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "Lab 2.html",
+    "href": "Lab 2.html",
+    "title": "Lab 2",
+    "section": "",
+    "text": "R is a powerful open-source programming language designed for statistical computing and graphics. R Studio is an integrated development environment (IDE) that enhances R by providing an intuitive interface, tools for code editing, visualization, and debugging. R is widely used for evaluating statistical analysis due to its vast collection of packages and functions tailored for data manipulation, visualization, and modeling. Engineers benefit from R as it enables efficient data analysis, simulation, and modeling of complex systems, making it a valuable tool for solving real-world engineering problems."
+  },
+  {
+    "objectID": "Lab 2.html#introduction-to-r",
+    "href": "Lab 2.html#introduction-to-r",
+    "title": "Lab 2",
+    "section": "",
+    "text": "R is a powerful open-source programming language designed for statistical computing and graphics. R Studio is an integrated development environment (IDE) that enhances R by providing an intuitive interface, tools for code editing, visualization, and debugging. R is widely used for evaluating statistical analysis due to its vast collection of packages and functions tailored for data manipulation, visualization, and modeling. Engineers benefit from R as it enables efficient data analysis, simulation, and modeling of complex systems, making it a valuable tool for solving real-world engineering problems."
+  },
+  {
+    "objectID": "Lab 2.html#introduction-to-quarto",
+    "href": "Lab 2.html#introduction-to-quarto",
+    "title": "Lab 2",
+    "section": "Introduction to Quarto",
+    "text": "Introduction to Quarto\nQuarto is an open-source scientific and technical publishing system that allows you to create dynamic documents, reports, blogs, and presentations. It supports multiple formats, including HTML, PDF, and Microsoft Word, and integrates with various programming languages like R, Python, and Julia. Quarto is designed for reproducible workflows and enables the seamless embedding of code, results, and visualizations into the final document, making it ideal for data analysis, research, and technical communication."
+  },
+  {
+    "objectID": "Lab 2.html#introduction-to-rmarkdown",
+    "href": "Lab 2.html#introduction-to-rmarkdown",
+    "title": "Lab 2",
+    "section": "Introduction to RMarkdown",
+    "text": "Introduction to RMarkdown\nRMarkdown is a versatile tool for creating dynamic documents that integrate code, results, and narrative in a single file. It supports R, Python, and other languages, allowing you to produce reports, presentations, blogs, and more by combining text with code execution. RMarkdown is particularly useful for data analysis, as it enables reproducibility by embedding the code that generates the outputs directly into the document. Users can export their work to formats like HTML, PDF, or Word, making it a powerful resource for sharing analysis in a clean and professional manner."
+  },
+  {
+    "objectID": "Lab 2.html#introduction-to-ggplot",
+    "href": "Lab 2.html#introduction-to-ggplot",
+    "title": "Lab 2",
+    "section": "Introduction to ggplot",
+    "text": "Introduction to ggplot\n\n‘ggplot2’ is a powerful and flexible data visualization package in R that adheres to the grammar of graphics framework, providing a systematic approach to building plots. It allows users to create a wide range of visualizations by mapping data variables to aesthetic attributes like color, size, shape, and position, and layering these visual components through geometries such as points, lines, bars, and more. With ‘ggplot2’ you can produce publication-quality plots with ease, while also enjoying deep customization options for fine-tuning everything from scales and themes to labels and annotations."
+  },
+  {
+    "objectID": "Introduction.html",
+    "href": "Introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Hello everybody! I am Rushika Arvapalli.\n\nI am currently pursuing a Masters in Data Analytics Engineering at George Mason University in Fairfax, Virginia, USA.\n\nIn India, I pursued Computer Science and Business Systems in my undergraduate studies.\n\nBusiness disciplines thrill me more, in addition to a touch of computer science would be quite interesting to me, so I was excited about the course for my Masters.\n\nApart from business, my main interests include understanding the length, width, and depth of organizations to study and understand the organisations in a business perspective."
+  },
+  {
+    "objectID": "Introduction.html#rushika-arvapalli",
+    "href": "Introduction.html#rushika-arvapalli",
+    "title": "Introduction",
+    "section": "",
+    "text": "Hello everybody! I am Rushika Arvapalli.\n\nI am currently pursuing a Masters in Data Analytics Engineering at George Mason University in Fairfax, Virginia, USA.\n\nIn India, I pursued Computer Science and Business Systems in my undergraduate studies.\n\nBusiness disciplines thrill me more, in addition to a touch of computer science would be quite interesting to me, so I was excited about the course for my Masters.\n\nApart from business, my main interests include understanding the length, width, and depth of organizations to study and understand the organisations in a business perspective."
+  }
+]
